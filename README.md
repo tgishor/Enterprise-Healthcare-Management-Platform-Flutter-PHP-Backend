@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 
-**🚀 A comprehensive healthcare management solution featuring Flutter mobile app, PHP web portal, and secure RESTful API backend**
+**🚀 A comprehensive healthcare management solution featuring Flutter mobile app, PHP web portal, and secure RESTful API backend • Built in 2023**
 
 [📱 Live Demo](#-screenshots) • [🌐 Web Portal](#-screenshots) • [📖 Documentation](#-api-documentation) • [🔗 LinkedIn Post](https://www.linkedin.com/posts/gishor-thavakumar_project-6-smart-hospital-record-system-activity-7062773442588114944-_6YA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC09bw4B-aTQ2w2igcCACju_eXeeWPPdJEM)
 
@@ -102,10 +102,6 @@ The **Enterprise Healthcare Management Platform** is a comprehensive, full-stack
 ---
 
 ## 🏗️ System Architecture
-
-<div align="center">
-<img src="./diagrams/system-architecture.png" alt="System Architecture" width="800"/>
-</div>
 
 > **Architecture Overview**: The platform consists of three main components - Flutter mobile app, PHP web portal, and RESTful API backend, all connected to a centralized MySQL database with SMS gateway integration for OTP services.
 
@@ -248,7 +244,7 @@ The comprehensive web portal empowers healthcare administrators, doctors, and st
 
 #### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Enterprise-Healthcare-Management-Platform-Flutter-PHP-Backend.git
+git clone https://github.com/tgishor/Enterprise-Healthcare-Management-Platform-Flutter-PHP-Backend.git
 cd Enterprise-Healthcare-Management-Platform-Flutter-PHP-Backend
 ```
 
@@ -403,10 +399,6 @@ POST /login-check.php
 
 ### 🔍 **Authentication Flow**
 
-<div align="center">
-<img src="./diagrams/authentication-flow.png" alt="Authentication Flow" width="800"/>
-</div>
-
 > **Security Process**: The system supports both traditional username/password authentication and secure OTP-based login via SMS, ensuring multi-factor authentication for enhanced security.
 
 ---
@@ -454,10 +446,6 @@ POST /login-check.php
 
 ### 🌐 **Deployment Architecture**
 
-<div align="center">
-<img src="./diagrams/deployment-architecture.png" alt="Deployment Architecture" width="800"/>
-</div>
-
 > **Scalable Infrastructure**: Production-ready architecture with load balancing, database replication, and external service integration designed for high availability and performance.
 
 ---
@@ -499,15 +487,16 @@ Found a bug? Please create an issue with:
 
 ### 👨‍💻 **Developer**
 
-**[Your Name]**
+**Gishor Thavakumar**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gishor-thavakumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgishor?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tgishor@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contact@tgishor.com)
 
 ### 🔗 **Project Links**
 
-[📖 Documentation](./docs) • [🐛 Issues](./issues) • [💬 Discussions](./discussions) • [📝 LinkedIn Post](YOUR_LINKEDIN_POST_LINK)
+[📖 Documentation](./docs) • [🐛 Issues](./issues) • [💬 Discussions](./discussions) • [📝 LinkedIn Post](https://www.linkedin.com/posts/gishor-thavakumar_project-6-smart-hospital-record-system-activity-7062773442588114944-_6YA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC09bw4B-aTQ2w2igcCACju_eXeeWPPdJEM)
 
 </div>
 
@@ -540,5 +529,19 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - ✅ **Healthcare Compliance**: Built with healthcare industry standards in mind
 - ✅ **Real-Time Features**: Live notifications and data synchronization
 - ✅ **Production-Ready**: Comprehensive error handling and logging
+- ✅ **Modern Development (2023)**: Built with latest Flutter 3.0+ and PHP 8.0+ standards
+
+---
+
+## 📅 **Project Timeline**
+
+<div align="center">
+
+**🗓️ Development Period**: 2023  
+**🚀 Technology Stack**: Latest versions of Flutter 3.0+, PHP 8.0+, MySQL 8.0+  
+**📱 Platform Support**: Modern iOS and Android compatibility  
+**🔧 Development Approach**: Contemporary best practices and design patterns  
+
+</div>
 
 ---
