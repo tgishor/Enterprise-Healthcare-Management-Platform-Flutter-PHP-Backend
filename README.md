@@ -60,10 +60,11 @@ The **Enterprise Healthcare Management Platform** is a comprehensive, full-stack
 | ✅ Complete Medical History | ✅ Patient Registration & Profiles | ✅ Secure Data Encryption |
 | ✅ Appointment Scheduling | ✅ Appointment Scheduling | ✅ OTP-based Authentication |
 | ✅ Prescription Management | ✅ Medical Records Management | ✅ Real-time Data Sync |
-| ✅ Real-time Notifications | ✅ Staff Management | ✅ Comprehensive Error Handling |
-| ✅ Doctor Communication | ✅ Financial Reports & Analytics | ✅ SMS Integration |
-| ✅ Profile Management | ✅ Medicine Database | ✅ Session Management |
-| ✅ Offline Capability | ✅ Multi-role Access Control | ✅ Data Validation |
+| ✅ Real-time Notifications | ✅ Staff Management | ✅ AJAX Asynchronous Calls |
+| ✅ Doctor Communication | ✅ Financial Reports & Analytics | ✅ Comprehensive Error Handling |
+| ✅ Profile Management | ✅ Medicine Database | ✅ SMS Integration |
+| ✅ Offline Capability | ✅ Multi-role Access Control | ✅ Session Management |
+|  |  | ✅ Data Validation |
 
 </div>
 
@@ -84,6 +85,7 @@ The **Enterprise Healthcare Management Platform** is a comprehensive, full-stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-4285F4?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ **Backend & Database**
@@ -192,6 +194,7 @@ The comprehensive web portal empowers healthcare administrators, doctors, and st
 #### 🌐 **Web Technology Highlights:**
 
 - **Responsive Design**: Bootstrap-powered adaptive interface
+- **AJAX Integration**: Asynchronous data loading for seamless user experience
 - **Role-Based Access**: Multi-level user permissions
 - **Real-Time Dashboard**: Live data updates and notifications
 - **Advanced Search**: Powerful filtering and search capabilities
@@ -209,9 +212,9 @@ The comprehensive web portal empowers healthcare administrators, doctors, and st
 |:----------:|:-----:|:---------:|:---------------:|
 | ![Onboarding Screen](./screenshots/mobile/onboarding.png) | ![Login Screen](./screenshots/mobile/login.png) | ![Dashboard](./screenshots/mobile/dashboard.png) | ![Medical Records](./screenshots/mobile/records.png) |
 
-| Appointments | Prescriptions | Profile | Notifications |
-|:------------:|:-------------:|:-------:|:-------------:|
-| ![Appointments](./screenshots/mobile/appointments.png) | ![Prescriptions](./screenshots/mobile/prescriptions.png) | ![Profile](./screenshots/mobile/profile.png) | ![Notifications](./screenshots/mobile/notifications.png) |
+| Prescriptions History | Prescriptions List | Prescriptions Details | Appointment History |
+|:---------------------:|:------------------:|:---------------------:|:-------------------:|
+| ![Appointments](./screenshots/mobile/appointments.png) | ![Prescriptions](./screenshots/mobile/prescriptions.png) | ![Details](./screenshots/mobile/profile.png) | ![Appointment History](./screenshots/mobile/notifications.png) |
 
 </div>
 
@@ -219,13 +222,13 @@ The comprehensive web portal empowers healthcare administrators, doctors, and st
 
 <div align="center">
 
-| Dashboard | Patient Management | Doctor Management | Appointments |
-|:---------:|:------------------:|:-----------------:|:------------:|
-| ![Web Dashboard](./screenshots/web/dashboard.png) | ![Patient Management](./screenshots/web/patients.png) | ![Doctor Management](./screenshots/web/doctors.png) | ![Appointments](./screenshots/web/appointments.png) |
+| Login | Admin Dashboard | Analytics | Appointments |
+|:-----:|:---------------:|:---------:|:------------:|
+| ![Web Dashboard](./screenshots/web/login.png) | ![Admin Dashboard](./screenshots/web/admin-dashboard.png) | ![Appointment Analyis](./screenshots/web/appointment-analysis.png) | ![Appointments](./screenshots/web/appointments.png) |
 
-| Medical Records | Analytics | Reports | Settings |
-|:---------------:|:---------:|:-------:|:--------:|
-| ![Medical Records](./screenshots/web/medical-records.png) | ![Analytics](./screenshots/web/analytics.png) | ![Reports](./screenshots/web/reports.png) | ![Settings](./screenshots/web/settings.png) |
+| Medical Records | Doctor Schedule Module | Medicine | Doctor Dashboard |
+|:---------------:|:----------------------:|:--------:|:----------------:|
+| ![Medical Records](./screenshots/web/medical-records.png) | ![Analytics](./screenshots/web/dr-schedule-mod.png) | ![medicine](./screenshots/web/medicine.png) | ![Settings](./screenshots/web/doctor-dash.png) |
 
 </div>
 
@@ -442,6 +445,7 @@ POST /login-check.php
 ### 📈 **Optimization Features**
 
 - **⚡ Lazy Loading**: Efficient data loading in mobile app
+- **🔄 AJAX Integration**: Asynchronous data requests for better performance
 - **💾 Caching Strategy**: Local data caching for offline access
 - **🔄 Connection Pooling**: Optimized database connections
 - **📊 Query Optimization**: Indexed database queries
