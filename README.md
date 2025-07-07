@@ -204,8 +204,8 @@ The comprehensive web portal empowers healthcare administrators, doctors, and st
 
 <div align="center">
 
-| Onboarding | Login | Dashboard | Medical Records |
-|:----------:|:-----:|:---------:|:---------------:|
+| Onboarding | Login | Home Screen | Medical Records |
+|:----------:|:-----:|:-----------:|:---------------:|
 | ![Onboarding Screen](./screenshots/mobile/onboarding.png) | ![Login Screen](./screenshots/mobile/login.png) | ![Dashboard](./screenshots/mobile/dashboard.png) | ![Medical Records](./screenshots/mobile/records.png) |
 
 | Prescriptions History | Prescriptions List | Prescriptions Details | Appointment History |
