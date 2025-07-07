@@ -1,0 +1,33 @@
+.logo-c-image.logo {
+    position: relative;
+    display: inline-block;
+}
+
+.logo-c-image img {
+    border: 3px dashed #ffffff14; 
+    object-fit: cover;
+    cursor: pointer;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+
+.logo-c-image.logo label {
+    position: absolute;
+    cursor: pointer;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background: var(--background-color-4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 19px;
+    right: 13px;
+    border: 1px solid var(--color-border);
+    transition: var(--transition);
+}
+
+.brows-file-wrapper input {
+    display: none;
+}

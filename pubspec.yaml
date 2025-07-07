@@ -1,0 +1,68 @@
+name: smart_hrms_app
+description: Application for the Final Project
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^0.13.5
+  introduction_screen: ^3.0.1
+  cupertino_icons: ^1.0.2
+  google_fonts: ^3.0.1
+  flutter_swiper: ^1.1.6
+  intl: ^0.17.0
+  awesome_snackbar_content: ^0.0.8
+  flutter_svg: ^1.1.6
+  get: ^4.6.5
+  shared_preferences_android: ^2.0.14
+  shared_preferences: ^2.0.15
+  popover: ^0.2.7
+  material_floating_search_bar: ^0.3.7
+  multi_select_flutter: ^4.1.2
+  intl_phone_field: ^3.1.0
+  pinput: ^2.2.16
+  carousel_slider: ^4.1.1
+  fluttertoast: ^8.1.1
+  flutter_local_notifications: ^12.0.3
+  provider: ^6.0.4
+  flutter_switch: ^0.3.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/logo.png
+    - images/intro-slides/image-1.png
+    - images/intro-slides/image-2.png
+    - images/intro-slides/image-3.png
+    - images/slider/
+    - images/background/
+
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato-Regular.ttf
+        - asset: fonts/Lato-Italic.ttf
+          style: italic
+
+    - family: LatoMono
+      fonts:
+        - asset: fonts/Lato-Regular.ttf
+        - asset: fonts/Lato-Bold.ttf
+          weight: 700
