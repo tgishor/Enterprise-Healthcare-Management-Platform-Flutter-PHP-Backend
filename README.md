@@ -1,0 +1,2 @@
+# Enterprise-Healthcare-Management-Platform-Flutter-PHP-Backend
+🏥 Enterprise-grade healthcare management platform featuring Flutter mobile app, PHP backend, and MySQL database. Complete solution for hospitals with patient management, doctor scheduling, medical records, prescriptions, and real-time notifications.  🛠️ Tech Stack: Flutter • PHP • MySQL • RESTful APIs • OTP Authentication 📱 Cross-platform mobile app for patients 🌐 Web administration portal for healthcare staff 🔐 Secure API backend with encryption 📊 Real-time analytics and reporting
