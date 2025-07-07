@@ -11,7 +11,7 @@
 
 **🚀 A comprehensive healthcare management solution featuring Flutter mobile app, PHP web portal, and secure RESTful API backend**
 
-[📱 Live Demo](#-screenshots) • [🌐 Web Portal](#-screenshots) • [📖 Documentation](#-api-documentation) • [🔗 LinkedIn Post](YOUR_LINKEDIN_POST_LINK)
+[📱 Live Demo](#-screenshots) • [🌐 Web Portal](#-screenshots) • [📖 Documentation](#-api-documentation) • [🔗 LinkedIn Post](https://www.linkedin.com/posts/gishor-thavakumar_project-6-smart-hospital-record-system-activity-7062773442588114944-_6YA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC09bw4B-aTQ2w2igcCACju_eXeeWPPdJEM)
 
 </div>
 
