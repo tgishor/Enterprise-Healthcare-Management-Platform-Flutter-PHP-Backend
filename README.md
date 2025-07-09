@@ -9,9 +9,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 
-**🚀 A comprehensive healthcare management solution featuring Flutter mobile app, PHP web portal, and secure RESTful API backend • Built in 2023**
+**A comprehensive healthcare management solution featuring Flutter mobile app, PHP web portal, and secure RESTful API backend • Built in 2023**
 
-[📱 Live Demo](#-screenshots) • [🌐 Web Portal](#-screenshots) • [📖 Documentation](#-api-documentation) • [🔗 LinkedIn Post](https://www.linkedin.com/posts/gishor-thavakumar_project-6-smart-hospital-record-system-activity-7062773442588114944-_6YA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC09bw4B-aTQ2w2igcCACju_eXeeWPPdJEM)
+[Screenshots Demo](#-screenshots) • [Web Portal](#-screenshots) • [📖 Documentation](#-api-documentation) • [LinkedIn Post](https://www.linkedin.com/posts/gishor-thavakumar_project-6-smart-hospital-record-system-activity-7062773442588114944-_6YA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC09bw4B-aTQ2w2igcCACju_eXeeWPPdJEM)
 
 </div>
 
